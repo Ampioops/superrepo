@@ -7,3 +7,6 @@
 [submodule "common-module"]
 	path = common-module
 	url = https://github.com/Ampioops/common
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/Ampioops/notification-service
