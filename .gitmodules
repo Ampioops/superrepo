@@ -14,3 +14,7 @@
 	path = notification-service
 	url = https://github.com/Ampioops/notification-service
 	branch = master
+[submodule "kafka"]
+	path = kafka
+	url = https://github.com/Ampioops/kafka
+	branch = master
