@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/common-module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kafka" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/monolith" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/notification-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/subscription-service" vcs="Git" />
